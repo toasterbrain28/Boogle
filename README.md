@@ -19,7 +19,8 @@ Book search engine application! (Hence the very inspired name)
 ## Installation
 Download the repo
 
-## Usage
+## Usage/Bugs
++Currently WIP, check back for second commit!
 
 
 ## License
